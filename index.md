@@ -1,7 +1,3 @@
----
-permalink: /index.html
----
-
 ## About Me — Jasmin Besic
 Vivamus aliquam vel lorem vitae fermentum. Aenean elementum lobortis tortor et sodales. Fusce fringilla
 tortor nec dolor ullamcorper, in ultrices tellus porta. Sed cursus leo orci, nec interdum lectus tristique
