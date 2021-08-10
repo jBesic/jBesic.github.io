@@ -1,10 +1,5 @@
 ---
 title: React Architecture: How to Structure and Organize a React Application
-author: Jasmin Besic
-tags:
-  - React
-  - React Architecture
-  - How to Structure and Organize a React Application
 layout: post
 ---
 
