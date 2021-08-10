@@ -1,5 +1,5 @@
 ---
-title: React Architecture: How to Structure and Organize a React Application
+title: React Architecture&#58; How to Structure and Organize a React Application
 layout: post
 ---
 
