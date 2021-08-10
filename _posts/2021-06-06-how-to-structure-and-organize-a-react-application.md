@@ -1,5 +1,6 @@
 ---
 title: React Architecture&#58; How to Structure and Organize a React Application
+summary: Vivamus aliquam vel lorem vitae fermentum. Aenean elementum lobortis tortor et sodales. Fusce fringilla tortor nec dolor ullamcorper, in ultrices tellus porta. Sed cursus leo orci, nec interdum lectus tristique quis. Morbi eleifend gravida dapibus.
 layout: post
 ---
 
