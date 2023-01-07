@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Jasmin Besic
+tagline:          'Software Engineer'
+description:      'Software Engineer'
+url:              https://jbesic.github.io/
+baseurl:          /
+
+author:
+  name:           'Jasmin Besic'
+  url:            https://jbesic.github.io/
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/jBesic/jBesic.github.io
