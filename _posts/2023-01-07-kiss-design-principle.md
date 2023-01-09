@@ -1,6 +1,7 @@
 ---
 layout: post
 title: KISS design principle
+metadescription: Simplicity is an important design principle because it makes things easier to understand and use, which increases their chances of being adopted and used frequently.
 ---
 
 
