@@ -5,11 +5,6 @@ title: KISS design principle
 metadescription: Simplicity is an important design principle because it makes things easier to understand and use, which increases their chances of being adopted and used frequently.
 ---
 
-
-<div class="message">
-  What is Keep It Simple, Stupid (KISS)?
-</div>
-
 In software engineering, KISS stands for "Keep It Simple, Stupid." This acronym is often used as a design principle to guide the development of software systems. It suggests that systems should be designed to be as simple as possible, and that complexity should be avoided whenever possible. The idea behind KISS is that simpler systems are generally easier to understand, maintain, and modify, and are therefore less prone to errors and more likely to be successful.
 
 Here are a few ways to follow the KISS principle in software engineering:
