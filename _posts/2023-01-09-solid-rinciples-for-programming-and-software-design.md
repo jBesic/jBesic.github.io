@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SOLID Principles for Programming and Software Design
+metadescription: "SOLID is a set of five design principles that are commonly used by software developers to improve the design of their code. The acronym SOLID stands for: Single Responsibility Principle, Open-Closed Principle, Liskov Substitution Principle, Interface Segregation Principle, and Dependency Inversion Principle. These principles can help developers create more maintainable, scalable, and flexible software."
 ---
 
 
