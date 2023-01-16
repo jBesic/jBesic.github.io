@@ -340,6 +340,11 @@ tbody tr:nth-child(odd) th {
   margin-bottom: 4em;
 }
 
+.post + .post {
+  padding-top: 4em;
+  border-top: 2px solid #515151;
+}
+
 .posts .post-title a {
     text-decoration: underline;
     color: #268bd2;
