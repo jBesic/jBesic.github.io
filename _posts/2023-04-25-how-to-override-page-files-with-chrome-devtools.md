@@ -5,8 +5,6 @@ title: How to Override Page Files with Chrome DevTools
 metadescription: "Learn how to use Chrome DevTools to override page files, allowing you to test changes to a website without affecting the live version."
 ---
 
-# How to Override Page Files with Chrome DevTools
-
 Chrome DevTools is an essential tool for web developers, allowing them to inspect and debug web pages in real-time. In addition to these core features, Chrome DevTools also includes the ability to override page files, which can be a valuable tool for testing changes to a website without affecting the live version.
 
 In this beginner's guide, we'll walk through the steps to use Chrome DevTools to override page files, allowing you to improve your web development workflow and test changes with ease.
